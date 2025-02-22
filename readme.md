@@ -1,4 +1,4 @@
-# Simple Task Management API
+# Simple Task Manager API
 
 ## Description
 This is a simple RESTful API example built with Express.js for managing tasks. It demonstrates basic CRUD (Create, Read, Update, Delete) operations using an in-memory array as the data store.
